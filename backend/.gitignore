@@ -1,0 +1,7 @@
+.env
+.env.txt
+ADMIN_CREDENTIALS.md
+.venv/
+__pycache__/
+uploads/
+.pytest_cache/
